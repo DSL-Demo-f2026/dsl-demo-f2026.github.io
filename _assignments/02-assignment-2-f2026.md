@@ -7,7 +7,7 @@ due_event:
     date: 2026-11-17T23:59:00
     description: "Assignment 1 — Foundations (template) due"
 ---
-> **Master template** (lives in the private `Hertie-School-Deep-Learning-EXAMPLE` org, marked as a GitHub *template repo*). The provisioner generates one private `assignment-1-<handle>` copy per student into the cohort org.
+> **Master template** (lives in the private `Hertie-DSL-Demo` org, marked as a GitHub *template repo*). The provisioner generates one private `assignment-1-<handle>` copy per student into the cohort org.
 
 ## Task
 
