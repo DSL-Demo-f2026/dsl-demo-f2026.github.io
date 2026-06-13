@@ -1,21 +1,31 @@
 ---
 type: assignment
 date: 2026-11-17T23:59:00
-title: "Assignment 2 - A first neural network"
+title: "Assignment 1 — Foundations (template)"
 due_event:
     type: due
     date: 2026-11-17T23:59:00
-    description: "Assignment 2 - A first neural network due"
+    description: "Assignment 1 — Foundations (template) due"
 ---
-Train a small neural network in PyTorch and beat the Assignment 1 baseline.
+> **Master template** (lives in the private `Hertie-School-Deep-Learning-EXAMPLE` org, marked as a GitHub *template repo*). The provisioner generates one private `assignment-1-<handle>` copy per student into the cohort org.
 
-## Tasks
-1. Implement the training loop in `starter.py`.
-2. Plot the loss curve and report final test accuracy.
+## Task
 
-## Submission
-Push to `main` in your private `assignment-2-<your-handle>` repo.
+Implement a minimal autograd engine and train a 1-layer network on a toy dataset.
 
-_This README is the assignment brief shown on the cohort website._
+1. Complete the TODOs in [`starter.py`](starter.py).
+2. Commit and push to `main` — that's your submission (no CLI ceremony; a plain push is the submit).
+3. You'll see your score on the commit once autograding is enabled.
+
+## Grading
+
+| Test | Points |
+| --- | --- |
+| `forward()` correct | 4 |
+| `backward()` gradients | 4 |
+| trains below loss threshold | 2 |
+| **Total** | **10** |
+
+*Autograding is **deferred** in this demo (ADR 0010). When enabled it runs via `.github/workflows/autograde.yml` → Otter-Grader/nbgrader → `result.json`. The shim is already in every generated repo, so turning it on is a config change, not a per-repo edit.*
 
 _Your private `assignment-2-<your-handle>` repo appears in `Hertie-DSL-Demo`'s cohort org once the teaching team provisions it._
