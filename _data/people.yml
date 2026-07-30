@@ -1,10 +1,16 @@
-# declared in the `people:` block.
+# auto-generated from the org's instructors team.
 
 instructor:
-  name: "Course staff"
-  profile_pic: ""
-  webpage: ""
+  name: "Henry Baker"
+  profile_pic: "https://avatars.githubusercontent.com/u/118537936?v=4"
+  webpage: "https://github.com/henrycgbaker"
 
-instructors: []
+instructors:
+  - name: "Henry Baker"
+    profile_pic: "https://avatars.githubusercontent.com/u/118537936?v=4"
+    webpage: "https://github.com/henrycgbaker"
+  - name: "hertie-dsl-bot"
+    profile_pic: "https://avatars.githubusercontent.com/u/294491927?v=4"
+    webpage: "https://github.com/hertie-dsl-bot"
 
 teaching_assistants: []

@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 2026-10-13T23:59:00
+date: 2026-09-15T23:59:00
 title: "Assignment 1 - linear regression from scratch (individual)"
 due_event:
     type: due
-    date: 2026-10-13T23:59:00
+    date: 2026-09-15T23:59:00
     description: "Assignment 1 - linear regression from scratch (individual) due"
 ---
 **Weight:** 15% of the final mark
