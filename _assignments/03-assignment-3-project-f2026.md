@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 2026-10-13T23:59:00
+date: 2026-11-27T23:59:00
 title: "Group project - an end-to-end modelling report"
 due_event:
     type: due
-    date: 2026-10-13T23:59:00
+    date: 2026-11-27T23:59:00
     description: "Group project - an end-to-end modelling report due"
 ---
 **Weight:** 25% of the final mark
