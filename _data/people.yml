@@ -2,17 +2,17 @@
 
 instructor:
   name: "Henry Baker"
-  profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
+  profile_pic: "https://github.com/henrycgbaker.png"
   webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
 
 instructors:
   - name: "Henry Baker"
-    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
+    profile_pic: "https://github.com/henrycgbaker.png"
     webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
     title: "Instructor"
 
 teaching_assistants:
   - name: "Henry Baker"
-    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
+    profile_pic: "/_images/pp/henrycgbaker.jpg"
     webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
     title: "Teaching Assistant"
