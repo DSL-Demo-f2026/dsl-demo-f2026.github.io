@@ -1,10 +1,10 @@
 ---
 type: assignment
-date: 2026-11-03T23:59:00
+date: 2026-10-06T23:59:00
 title: "Assignment 2"
 due_event:
     type: due
-    date: 2026-11-03T23:59:00
+    date: 2026-10-06T23:59:00
     description: "Assignment 2 due"
 ---
 Assignment brief.

@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-09-15T10:00:00
+date: 2026-09-22T09:00:00
 title: "Session 2"
 tldr: "Released materials for session 2 (enrolled students only)."
 links:
