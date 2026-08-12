@@ -1,10 +1,18 @@
 # declared in the `people:` block.
 
 instructor:
-  name: "Course staff"
-  profile_pic: ""
-  webpage: ""
+  name: "Henry Baker"
+  profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
+  webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
 
-instructors: []
+instructors:
+  - name: "Henry Baker"
+    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
+    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
+    title: "Instructor"
 
-teaching_assistants: []
+teaching_assistants:
+  - name: "Henry Baker"
+    profile_pic: "https://www.hertie-school.org/fileadmin/_processed_/f/8/csm_Henry_final_deda644991.jpg"
+    webpage: "https://www.hertie-school.org/en/who-we-are/profile/person/baker"
+    title: "Teaching Assistant"
