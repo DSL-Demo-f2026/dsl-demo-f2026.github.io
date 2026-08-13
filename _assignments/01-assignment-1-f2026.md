@@ -5,7 +5,7 @@ title: "Assignment 1 - linear regression from scratch (individual)"
 due_event:
     type: due
     date: 2026-10-13T23:59:00
-    description: "Assignment 1 - linear regression from scratch (individual) due"
+    description: "Assignment 1 - linear regression from scratch (individual)"
 ---
 Implement ordinary least squares yourself in `starter.py`, standard library only - fill in
 `fit_linear_regression`, `predict`, `r_squared` and `solve_linear_system`.

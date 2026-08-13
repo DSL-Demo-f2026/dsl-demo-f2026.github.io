@@ -5,7 +5,7 @@ title: "Group project - an end-to-end modelling report"
 due_event:
     type: due
     date: 2026-11-27T23:59:00
-    description: "Group project - an end-to-end modelling report due"
+    description: "Group project - an end-to-end modelling report"
 ---
 **Weight:** 25% of the final mark
 **Teams:** 2-3 students (see `teams.csv`; one repository per team)

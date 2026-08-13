@@ -5,7 +5,7 @@ title: "Assignment 2"
 due_event:
     type: due
     date: 2026-11-03T23:59:00
-    description: "Assignment 2 due"
+    description: "Assignment 2"
 ---
 Assignment brief.
 
