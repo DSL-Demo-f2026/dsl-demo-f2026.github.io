@@ -1,11 +1,9 @@
 ---
 type: lecture
-date: 2026-09-22T09:00:00
+date: 2026-09-15T10:00:00
 title: "Session 2"
 tldr: "Released materials for session 2 (enrolled students only)."
 links:
-    - url: https://github.com/DSL-Demo-f2026/labs/blob/main/02_linear-regression/lab-02-least-squares.Rmd
-      name: "lab - lab-02-least-squares.Rmd"
     - url: https://github.com/DSL-Demo-f2026/lectures/blob/main/02_linear-regression/demo.R
       name: "lecture - demo.R"
     - url: https://github.com/DSL-Demo-f2026/lectures/blob/main/02_linear-regression/slides.md
