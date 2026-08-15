@@ -7,6 +7,7 @@ due_event:
     date: 2026-11-27T23:59:00
     description: "Group project - an end-to-end modelling report"
 ---
+{% raw %}
 **Weight:** 25% of the final mark
 **Teams:** 2-3 students (see `teams.csv`; one repository per team)
 **Released:** 20 October 2026 | **Clinic:** 17 November | **Due:** Friday 27 November, 23:59
@@ -94,5 +95,6 @@ with a better one; teams that come with a finished model leave with a list.
 2. Build the baseline before the model. Put its score in the report and keep it there.
 3. Split once, early, and do not look at the test set again until the report is written.
 4. Commit often, in everyone's name. The history is evidence.
+{% endraw %}
 
-_Your private `assignment-3-project-<your-handle>` repo appears in `DSL-Demo-Course-E1234`'s cohort org once the teaching team provisions it._
+_Your private `assignment-3-project-<your-handle>` repo appears in `hertie-dsl-demo-course-e1234`'s cohort org once the teaching team provisions it._
